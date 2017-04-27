@@ -69,6 +69,7 @@
 * [#4354](https://github.com/bbatsov/rubocop/pull/4354): Add autocorrect to `Style/FormatString`. ([@hoshinotsuyoshi][])
 * [#4021](https://github.com/bbatsov/rubocop/pull/4021): Add new `Style/MultipleComparison` cop. ([@dabroz][])
 * New `Lint/RescueType` cop. ([@rrosenblum][])
+* [#4328](https://github.com/bbatsov/rubocop/issues/4328): Add `--ignore-parent-exclusion` flag to ignore AllCops/Exclude inheritance. ([@nelsonjr][])
 
 ### Changes
 
@@ -2844,3 +2845,4 @@
 [@timrogers]: https://github.com/timrogers
 [@harold-s]: https://github.com/harold-s
 [@daniloisr]: https://github.com/daniloisr
+[@nelsonjr]: https://github.com/nelsonjr
